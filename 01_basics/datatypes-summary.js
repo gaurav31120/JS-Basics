@@ -36,3 +36,5 @@ console.log(typeof myFunction); //function
 console.log(typeof heros); //object
 console.log(typeof id); // symbol
 console.log(typeof anotherId); //symbol
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
